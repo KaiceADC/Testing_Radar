@@ -1,0 +1,28 @@
+running egg_info
+writing build/radar_tracking_pkg/radar_tracking_pkg.egg-info/PKG-INFO
+writing dependency_links to build/radar_tracking_pkg/radar_tracking_pkg.egg-info/dependency_links.txt
+writing entry points to build/radar_tracking_pkg/radar_tracking_pkg.egg-info/entry_points.txt
+writing requirements to build/radar_tracking_pkg/radar_tracking_pkg.egg-info/requires.txt
+writing top-level names to build/radar_tracking_pkg/radar_tracking_pkg.egg-info/top_level.txt
+reading manifest file 'build/radar_tracking_pkg/radar_tracking_pkg.egg-info/SOURCES.txt'
+writing manifest file 'build/radar_tracking_pkg/radar_tracking_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+creating /home/kaice/Desktop/radar_tracking_pkg/install/radar_tracking_pkg/share/radar_tracking_pkg/launch
+copying launch/radar_launch.py -> /home/kaice/Desktop/radar_tracking_pkg/install/radar_tracking_pkg/share/radar_tracking_pkg/launch
+running install_egg_info
+removing '/home/kaice/Desktop/radar_tracking_pkg/install/radar_tracking_pkg/lib/python3.10/site-packages/radar_tracking_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+Copying build/radar_tracking_pkg/radar_tracking_pkg.egg-info to /home/kaice/Desktop/radar_tracking_pkg/install/radar_tracking_pkg/lib/python3.10/site-packages/radar_tracking_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing radar_ekf_tracker_node script to /home/kaice/Desktop/radar_tracking_pkg/install/radar_tracking_pkg/lib/radar_tracking_pkg
+Installing radar_path_tracker script to /home/kaice/Desktop/radar_tracking_pkg/install/radar_tracking_pkg/lib/radar_tracking_pkg
+Installing radar_pointcloud_node script to /home/kaice/Desktop/radar_tracking_pkg/install/radar_tracking_pkg/lib/radar_tracking_pkg
+Installing radar_publisher script to /home/kaice/Desktop/radar_tracking_pkg/install/radar_tracking_pkg/lib/radar_tracking_pkg
+Installing radar_publisher_enhanced script to /home/kaice/Desktop/radar_tracking_pkg/install/radar_tracking_pkg/lib/radar_tracking_pkg
+Installing radar_serial_publisher script to /home/kaice/Desktop/radar_tracking_pkg/install/radar_tracking_pkg/lib/radar_tracking_pkg
+Installing radar_subscriber script to /home/kaice/Desktop/radar_tracking_pkg/install/radar_tracking_pkg/lib/radar_tracking_pkg
+Installing radar_subscriber_enhanced script to /home/kaice/Desktop/radar_tracking_pkg/install/radar_tracking_pkg/lib/radar_tracking_pkg
+writing list of installed files to '/home/kaice/Desktop/radar_tracking_pkg/build/radar_tracking_pkg/install.log'

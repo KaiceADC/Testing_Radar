@@ -1,0 +1,32 @@
+[0.618s] Invoking command in '/home/kaice/Desktop/radar_tracking_pkg': PYTHONPATH=/home/kaice/Desktop/radar_tracking_pkg/build/radar_tracking_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kaice/Desktop/radar_tracking_pkg/install/radar_tracking_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/radar_tracking_pkg build --build-base /home/kaice/Desktop/radar_tracking_pkg/build/radar_tracking_pkg/build install --record /home/kaice/Desktop/radar_tracking_pkg/build/radar_tracking_pkg/install.log --single-version-externally-managed install_data
+[0.837s] running egg_info
+[0.838s] writing build/radar_tracking_pkg/radar_tracking_pkg.egg-info/PKG-INFO
+[0.842s] writing dependency_links to build/radar_tracking_pkg/radar_tracking_pkg.egg-info/dependency_links.txt
+[0.843s] writing entry points to build/radar_tracking_pkg/radar_tracking_pkg.egg-info/entry_points.txt
+[0.843s] writing requirements to build/radar_tracking_pkg/radar_tracking_pkg.egg-info/requires.txt
+[0.843s] writing top-level names to build/radar_tracking_pkg/radar_tracking_pkg.egg-info/top_level.txt
+[0.845s] reading manifest file 'build/radar_tracking_pkg/radar_tracking_pkg.egg-info/SOURCES.txt'
+[0.846s] writing manifest file 'build/radar_tracking_pkg/radar_tracking_pkg.egg-info/SOURCES.txt'
+[0.847s] running build
+[0.847s] running build_py
+[0.847s] copying radar_tracking_pkg/radar_serial_publisher.py -> /home/kaice/Desktop/radar_tracking_pkg/build/radar_tracking_pkg/build/lib/radar_tracking_pkg
+[0.848s] running install
+[0.848s] running install_lib
+[0.849s] copying /home/kaice/Desktop/radar_tracking_pkg/build/radar_tracking_pkg/build/lib/radar_tracking_pkg/radar_serial_publisher.py -> /home/kaice/Desktop/radar_tracking_pkg/install/radar_tracking_pkg/lib/python3.10/site-packages/radar_tracking_pkg
+[0.850s] byte-compiling /home/kaice/Desktop/radar_tracking_pkg/install/radar_tracking_pkg/lib/python3.10/site-packages/radar_tracking_pkg/radar_serial_publisher.py to radar_serial_publisher.cpython-310.pyc
+[0.851s] running install_data
+[0.851s] running install_egg_info
+[0.853s] removing '/home/kaice/Desktop/radar_tracking_pkg/install/radar_tracking_pkg/lib/python3.10/site-packages/radar_tracking_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.854s] Copying build/radar_tracking_pkg/radar_tracking_pkg.egg-info to /home/kaice/Desktop/radar_tracking_pkg/install/radar_tracking_pkg/lib/python3.10/site-packages/radar_tracking_pkg-0.0.0-py3.10.egg-info
+[0.855s] running install_scripts
+[0.874s] Installing radar_ekf_tracker_node script to /home/kaice/Desktop/radar_tracking_pkg/install/radar_tracking_pkg/lib/radar_tracking_pkg
+[0.874s] Installing radar_path_tracker script to /home/kaice/Desktop/radar_tracking_pkg/install/radar_tracking_pkg/lib/radar_tracking_pkg
+[0.875s] Installing radar_pointcloud_node script to /home/kaice/Desktop/radar_tracking_pkg/install/radar_tracking_pkg/lib/radar_tracking_pkg
+[0.875s] Installing radar_publisher script to /home/kaice/Desktop/radar_tracking_pkg/install/radar_tracking_pkg/lib/radar_tracking_pkg
+[0.876s] Installing radar_publisher_enhanced script to /home/kaice/Desktop/radar_tracking_pkg/install/radar_tracking_pkg/lib/radar_tracking_pkg
+[0.876s] Installing radar_serial_debug script to /home/kaice/Desktop/radar_tracking_pkg/install/radar_tracking_pkg/lib/radar_tracking_pkg
+[0.876s] Installing radar_serial_publisher script to /home/kaice/Desktop/radar_tracking_pkg/install/radar_tracking_pkg/lib/radar_tracking_pkg
+[0.876s] Installing radar_subscriber script to /home/kaice/Desktop/radar_tracking_pkg/install/radar_tracking_pkg/lib/radar_tracking_pkg
+[0.877s] Installing radar_subscriber_enhanced script to /home/kaice/Desktop/radar_tracking_pkg/install/radar_tracking_pkg/lib/radar_tracking_pkg
+[0.877s] writing list of installed files to '/home/kaice/Desktop/radar_tracking_pkg/build/radar_tracking_pkg/install.log'
+[0.903s] Invoked command in '/home/kaice/Desktop/radar_tracking_pkg' returned '0': PYTHONPATH=/home/kaice/Desktop/radar_tracking_pkg/build/radar_tracking_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kaice/Desktop/radar_tracking_pkg/install/radar_tracking_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/radar_tracking_pkg build --build-base /home/kaice/Desktop/radar_tracking_pkg/build/radar_tracking_pkg/build install --record /home/kaice/Desktop/radar_tracking_pkg/build/radar_tracking_pkg/install.log --single-version-externally-managed install_data

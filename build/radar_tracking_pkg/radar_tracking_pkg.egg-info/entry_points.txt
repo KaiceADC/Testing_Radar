@@ -1,0 +1,11 @@
+[console_scripts]
+radar_ekf_tracker_node = radar_tracking_pkg.radar_ekf_tracker_node:main
+radar_path_tracker = radar_tracking_pkg.radar_path_tracker:main
+radar_pointcloud_node = radar_tracking_pkg.radar_pointcloud_node:main
+radar_publisher = radar_tracking_pkg.radar_publisher:main
+radar_publisher_enhanced = radar_tracking_pkg.radar_publisher_enhanced:main
+radar_serial_debug = radar_tracking_pkg.radar_serial_debug:main
+radar_serial_publisher = radar_tracking_pkg.radar_serial_publisher:main
+radar_subscriber = radar_tracking_pkg.radar_subscriber:main
+radar_subscriber_enhanced = radar_tracking_pkg.radar_subscriber_enhanced:main
+
